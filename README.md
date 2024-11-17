@@ -4,7 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sersoc)](https://github.com/anuraghazra/github-readme-stats)
 
-My Blog : [![GitHub Blog](https://img.icons8.com/material-outlined/24/000000/github.png)]([https://your-github-blog-url](https://sersoc.github.io/))
+[GitHub Blog](https://sersoc.github.io/) ✨
+
 
 <!--
 **Sersoc/Sersoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
