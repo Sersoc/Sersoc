@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sersoc)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sersoc)](https://github.com/anuraghazra/github-readme-stats)
 
 [Velog]([https://velog.io/@jaeikmoon_0317])(https://velog.io/@jaeikmoon_0317) ✨
 
