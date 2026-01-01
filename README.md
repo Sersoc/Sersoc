@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sersoc)](https://github.com/anuraghazra/github-readme-stats)
 
-[GitHub Blog](https://sersoc.github.io/) ✨
+[Velog]([https://sersoc.github.io/](https://velog.io/@jaeikmoon_0317) ✨
 
 
 <!--
